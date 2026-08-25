@@ -1,0 +1,11 @@
+# Les binaires sont publiés comme assets GitHub Releases, jamais dans Git.
+*.exe
+*.apk
+*.aab
+*.msi
+*.zip
+*.7z
+*.sha256
+
+artifacts/
+staging/
